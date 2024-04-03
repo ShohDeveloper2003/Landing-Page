@@ -1,0 +1,916 @@
+@media screen and (max-width: 1199.98px) {
+  /* Services  */
+
+  #services .services-items {
+    width: 100%;
+  }
+  #services .services-item {
+    width: 200px;
+  }
+  #facts .facts-items{
+    width: 90%;
+  }
+  #benefits .benefits-top{
+    width: 100%;
+  }
+  #benefits .benefits-top .next-paragraph{
+    max-width: 1100px;
+    width: 100%;
+    line-height: 1.3rem;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
+  #price .price-card:first-child{
+    margin-top: 1.5rem;
+  }
+  #price .price-left-item:nth-child(4){
+    border: 1px solid green;
+  }
+  /* #price .price-left-item:nth-child(4) .price-info{
+    max-width: 1200px !important;
+    width: 100% !important;
+    border: 2px solid red;
+  } */
+}
+
+/* End Services */
+
+@media (max-width: 1024px) {
+  /* Header */
+
+  #header .container {
+    min-height: 50vh;
+  }
+  #about .container {
+    min-height: 50vh;
+  }
+
+  /* End Header */
+
+  /* About */
+
+  #about .about-top {
+    margin: 0 auto;
+    width: 95%;
+  }
+  #about .about-body {
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  /* End About */
+
+  /* Work */
+
+  #work .work {
+    min-height: 12vh;
+  }
+
+  /* End Work */
+
+  /* Work Cards */
+
+  #work-cards .work-cards {
+    justify-content: center;
+  }
+  #work-cards .work-cards-item {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  /* End Work Cards */
+
+  /* Testimonials */
+
+  #testimonials .container {
+    min-height: 55vh;
+  }
+  #testimonials .testimonials-bottom .owl-nav .owl-nav-prev,
+  #testimonials .testimonials-bottom .owl-nav .owl-nav-next {
+    display: none;
+  }
+
+  /* End Testimonials */
+
+  /* Facts */
+
+  #facts .facts {
+    min-height: 50vh;
+  }
+  #facts .facts-items {
+    width: 90%;
+  }
+  #facts .facts-item h3 {
+    font-size: 2.5rem;
+  }
+  #facts .facts-item h5 {
+    font-size: 0.8rem;
+  }
+
+  /* End Facts */
+
+  /* Services  */
+
+  #services .services {
+    min-height: 48vh;
+  }
+  #services .services-items {
+    margin: 0 auto;
+    justify-content: center;
+  }
+  #services .services-item {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  #services .services-information .owl-carousel .item p {
+    max-width: 500px;
+    width: 100%;
+  }
+
+  /* End Services */
+
+  /* Our Team */
+
+  #team .container {
+    min-height: 50vh;
+  }
+
+  /* End Our Team */
+
+  /* Skills */
+
+  #skills .container {
+    min-height: 50vh;
+  }
+  #skills .skills-body {
+    width: 95%;
+  }
+  #skills .skills-body-item:first-child span {
+    left: 250px;
+  }
+  #skills .skills-body-item .gradient {
+    display: block;
+    width: 460px;
+  }
+  #skills .skills-body-item.plus label {
+    display: block;
+    width: 97%;
+  }
+  #skills .skills-body-item.plus .number {
+    left: 320px;
+  }
+  #skills .skills-body-item.plus1 .number1 {
+    left: 170px;
+  }
+  #skills .skills-body-item.plus2 .number2 {
+    left: 200px;
+  }
+
+  /* End Skills */
+
+  /* Benefits  */
+
+  #benefits .container {
+    min-height: 70vh;
+  }
+  #benefits .benefits-items .benefits-item:nth-child(3) {
+    margin-top: 1rem;
+  }
+
+  /* End Benefits */
+
+  /* Price  */
+
+  #price .price-card:nth-child(3) {
+    margin-top: 2rem;
+  }
+
+  /* #price .price-left-item:nth-child(4) .price-info {
+    width: 500px;
+  } */
+
+  /* End Price */
+
+  /* Blog  */
+
+  #blog .container {
+    min-height: 65vh;
+  }
+  #blog .blog-cards .blog-card:nth-child(4) {
+    margin-top: 1rem;
+  }
+
+  /* End Blog */
+
+  /* Contact */
+
+  #contact .contact {
+    min-height: 50vh;
+  }
+
+  /* End Contact */
+
+  /* Registratsiya */
+
+  #registratsiya .container {
+    min-height: 40vh;
+  }
+
+  /* End Registrastsiya */
+
+  /* Footer */
+
+  #footer .vertikal-line a {
+    left: 930px;
+    top: 550px;
+  }
+  #footer .footer-block .footer-left p {
+    margin-left: 20px;
+  }
+  #footer .footer-block .social-network {
+    margin-right: 20px;
+  }
+
+  /* End Footer */
+}
+@media screen and (max-width: 991.98px) {
+  /* Header */
+
+  #header .container {
+    min-height: 100vh;
+  }
+
+  /* End Header */
+
+  /* Testimonials */
+
+  #testimonials .container {
+    min-height: 100vh;
+  }
+
+  /* End Testimonials */
+
+  /* Facts */
+
+  #facts .facts {
+    min-height: 100vh;
+  }
+  #facts .facts-item h5 {
+    font-size: 0.7rem;
+  }
+
+  /* End Facts */
+
+  /* Team  */
+
+  #team .team-cards {
+    justify-content: center;
+  }
+  #team .team-cards .team-card {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  #team .team-cards .team-card:nth-child(4) {
+    margin-top: 1.5rem;
+  }
+
+  /* End Team */
+
+  /* Skills */
+
+  #skills .skills-result {
+    height: 400px;
+    justify-content: flex-start;
+  }
+  #skills .skills-body-item {
+    margin-bottom: 3rem;
+  }
+
+  /* End Skills */
+  /* Benefits */
+
+  #benefits .container {
+    min-height: 120vh;
+  }
+
+  /*  End Benefits  */
+
+  /* Price  */
+
+  #price .price-left-item {
+    margin-bottom: 1.4rem;
+  }
+  /* #price .price-left-item:nth-child(4) .price-info {
+    width: 485px;
+  } */
+
+  /* End Price */
+
+  #registratsiya .container {
+    min-height: 90vh;
+  }
+}
+@media screen and (max-width: 768.98px) {
+  /* Header */
+
+  #header .container {
+    min-height: 55vh;
+  }
+  #header .header-main .item h1 {
+    font-size: 3rem;
+  }
+  #header .header-main .item h2 {
+    font-size: 0.9rem;
+    letter-spacing: 0.3px;
+  }
+
+  /* End Header */
+
+  /* Testimonials */
+
+  #testimonials .container {
+    min-height: 60vh;
+  }
+
+  /* End Testimonials */
+
+  /* Facts */
+
+  #facts .facts {
+    min-height: 65vh;
+  }
+  #facts .facts-top .facts-title h2 {
+    font-size: 1.7rem;
+  }
+  #facts .facts-items {
+    justify-content: space-between;
+  }
+  #facts .facts-item {
+    padding-left: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #facts .facts-item h5 {
+    font-size: 0.6rem;
+  }
+  #facts .facts-bottom-info p {
+    font-size: 1.6rem;
+  }
+
+  /* End Fcts */
+
+  /* Services  */
+  #services .services-body {
+    flex-direction: column;
+    background-color: #fff;
+  }
+  #services .services-information {
+    width: 80%;
+  }
+  #services .services-information .owl-carousel .item p {
+    max-width: 850px;
+    width: 100%;
+  }
+  #services .services-type {
+    background: #f9f9f9;
+    width: 80%;
+  }
+  #services .services-items {
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+
+  /* End Services  */
+
+  /* Team */
+
+  #team .team-cards .team-card:nth-child(3) {
+    margin-top: 23px;
+  }
+
+  /* End Team */
+
+  /* Skills */
+
+  #skills .container {
+    min-height: 60vh;
+  }
+  #skills .skills-body {
+    width: 100%;
+    flex-direction: column;
+  }
+  #skills .skills-info {
+    width: 80%;
+  }
+  #skills .skills-result {
+    width: 80%;
+    height: 320px;
+    margin-left: 0px;
+    margin-top: 1rem;
+  }
+  #skills .skills-body-item {
+    margin-bottom: 1rem;
+  }
+  #skills .skills-body-item:first-child span {
+    left: 340px;
+  }
+  #skills .skills-result .gradient {
+    width: 580px;
+    height: 22px;
+    border-radius: 8px;
+  }
+  #skills .skills-body-item.plus .number {
+    left: 435px;
+  }
+  #skills .skills-body-item.plus1 .number1 {
+    left: 250px;
+  }
+  #skills .skills-body-item.plus2 .number2 {
+    left: 295px;
+  }
+
+  /* End Skills */
+
+  /* Benefits */
+
+  #benefits .container {
+    min-height: 90vh;
+  }
+  #benefits .benefits-items {
+    justify-content: center;
+  }
+  #benefits .benefits-item {
+    width: 355px;
+  }
+
+  /* End Benefits */
+
+  /* Price  */
+
+  #price .price-bottom {
+    flex-direction: column;
+  }
+  #price .price-left {
+    width: 80%;
+  }
+  /* #price .price-left-item:nth-child(4) .price-info {
+    width: 590px;
+  } */
+  #price .price-right {
+    margin-left: 0px;
+    width: 80%;
+    margin-top: 1rem;
+  }
+
+  /* End Price */
+
+  /* Blog */
+
+  #blog .container {
+    min-height: 80vh;
+    margin-top: 2rem;
+  }
+  #blog .blog-cards .blog-card:nth-child(3) {
+    margin-top: 20px;
+  }
+
+  /* End Blog */
+
+  /* Contact  */
+
+  #contact .contact-top .contact-local a {
+    margin-left: 100px;
+  }
+  #contact .contact-top .contact-local a:first-child {
+    margin-left: 0;
+    letter-spacing: 0.5px;
+  }
+
+  /* End Contact */
+
+  /* Registratsiya */
+
+  #registratsiya .container {
+    width: 100%;
+    min-height: 60vh;
+  }
+  #registratsiya .registratsiya-body {
+    width: 98%;
+  }
+
+  /* End Registrastsiya */
+
+  /* Footer  */
+
+  #footer .container {
+    min-height: 119vh;
+  }
+
+  /* End Footer */
+}
+@media screen and (max-width: 576.98px) {
+  /* Header */
+
+  #header .container {
+    min-height: 90vh;
+  }
+  #header .header-contact__inner .header-connect a {
+    font-size: 0.8rem;
+  }
+  #header .header-navbar .header-navbar_links .nav-ul li a {
+    font-size: 0.7rem;
+    padding: 0 1rem;
+  }
+  #header .header-main .item h1 {
+    font-size: 3rem;
+  }
+  #header .header-main .item h2 {
+    font-size: 0.7rem;
+  }
+}
+
+/* End Header */
+
+/* About */
+
+#about .about-top .about-title {
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+#about .about-top .about-subtitle {
+  margin-bottom: 2rem;
+}
+
+/* End About  */
+
+/* Work */
+
+#work .work-info p {
+  font-size: 0.8rem;
+}
+
+/* End Work */
+/* Testimonials */
+
+#testimonials .testimonials-bottom {
+  max-width: 650px;
+  width: 100%;
+}
+#testimonials .testimonials-bottom .item {
+  width: 200px;
+}
+
+/* End Testimonials */
+
+/* FACTS */
+
+#facts .facts {
+  min-height: 90vh;
+}
+
+/* End FACTS */
+
+/* Services */
+
+#services .services-top p{
+  font-size: .8rem;
+}
+#services .services-information {
+  height: 450px;
+  padding-top: 4rem;
+}
+#services .services-item{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* End Services */
+
+/* Team */
+
+#team .team-top p{
+  font-size: .8rem;
+}
+#team .team-cards .team-card{
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+/* End Team */
+
+/* Skills */
+
+#skills .skills-top p{
+  font-size: .8rem;
+} 
+#skills .skills-info{
+  width: 90%;
+}
+#skills .skills-result{
+  width: 90%;
+}
+#skills .skills-result .gradient{
+  width: 500px;
+  height: 20px;
+}
+#skills .skills-body-item:first-child span{
+  left: 280px;
+}
+#skills .skills-body-item.plus .number {
+  left: 360px;
+}
+#skills .skills-body-item.plus1 .number1 {
+  left: 200px;
+}
+#skills .skills-body-item.plus2 .number2 {
+  left: 235px;
+}
+
+/* End Skills */
+
+/* Benefits */
+
+#benefits .benefits-top{
+  margin-top: 2rem;
+}
+#benefits .benefits-top p{
+  font-size: .8rem;
+}
+#benefits .benefits-top .next-paragraph {
+  font-size: .8rem;
+}
+#benefits .benefits-items .benefits-item{
+  margin-bottom: 1rem;
+}
+#benefits .benefits-items .benefits-item:nth-child(2){
+  margin-bottom: 0;
+}
+
+/* End Benefits */
+
+/* Price  */
+
+#price .price-top p{
+  font-size: .8rem;
+}
+#price .price-card:first-child{
+  margin-bottom: 1.5rem;
+}
+#price .price-left{
+  width: 90%;
+}
+/* #price .price-left-item:nth-child(4) .price-info{
+  width: 490px;
+} */
+#price .price-right{
+  width: 90%;
+}
+
+/* End rice */
+
+/* Blog */
+
+#blog .blog-top p{
+  font-size: .8rem;
+}  
+
+/* End Blog */
+
+/* Follow */
+
+#follow .follow-top p{
+  font-size: .8rem;
+}  
+
+/* End Follow */
+
+/* Contact  */
+
+#contact .contact-top p{
+  font-size: .8rem;
+}
+#contact .contact-top .contact-local{
+  justify-content: center;
+}
+#contact .contact-top .contact-local a{
+  margin-left: 50px;
+}
+#contact .contact-footer{
+  height: 200px;
+}
+
+/* End Contact */
+
+/* Registratsiya */
+
+#registratsiya .container{
+  min-height: 90vh;
+}
+
+/* End Registratsiya */
+
+/* Footer */
+
+#footer .footer-top{
+  flex-direction: row;
+}
+#footer  .footer-item{
+  width: 80%;
+  margin-left: 0;
+  margin-right: 0;
+}
+#footer  .footer-item:first-child{
+  margin-left: 0;
+}
+#footer  .footer-item .one{
+  width: 470px;
+}
+#footer  .footer-item  .two{
+  width: 430px;
+}
+#footer .container{
+  min-height: 170vh;
+}
+
+/* End Footer */
+
+@media screen and (max-width: 479.98px) {
+  #header .header-top{
+    flex-direction: row;
+    justify-content: center;
+    border: 2px solid red;
+    margin-top: -100px;
+  }
+  #header .header-navbar {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #header .header-navbar .header-navbar_links .nav-ul{
+    display: none;
+    flex-direction: column;
+    width: 100%;
+  }
+  #header .header-navbar .header-navbar_links .nav-ul.show{
+    display: flex;
+  }
+  #header .header-navbar .hamburger{
+    display: block;
+  }
+  #header .header-navbar .brand{
+    font-size: 1.5rem;
+  }
+  #header .header-main .item h1{
+    font-size: 3rem;
+  }
+  #header .header-main .item h2{
+    font-size: .6rem;
+  }
+
+  /* About  */
+
+  #about .about-top .about-title{
+    text-align: center;
+  }
+
+  /* End About  */
+
+  /* Facts */
+
+  #facts .facts{
+    min-height: 100vh;
+  }
+  #facts .facts-top .facts-title h2{
+    font-size: 1.4rem;
+  }
+  #facts .facts-items{
+    justify-content: center;
+  }
+  #facts .facts-item h3{
+    font-size: 2.5rem;
+  }
+  #facts .facts-bottom-info{
+    margin-top: 3rem;
+  }
+  #facts .facts-bottom-info p {
+    font-size: 1.3rem;
+  }
+
+  /* End Facts */
+
+  /* Services  */
+
+  #services .services{
+    min-height: 100vh;
+  }
+  #services .services-information{
+    width: 90%;
+  }
+  #services .services-top p{
+    text-align: center;
+    width: 350px;
+  }
+  #services .services-information .owl-carousel .item p{
+    font-size: .7rem;
+    width: 400px;
+  }
+  #services .services-information .owl-carousel .item label {
+    font-size: .7rem;
+    width: 400px;
+  }
+  #services .services-type {
+    width: 90%;
+  }
+
+  /* End Services  */
+
+  /* Our Team */
+
+  #team .team-top{
+    text-align: center;
+    width: 350px;
+  }
+  #team .team-cards .team-card:first-child{
+    margin-bottom: 1.3rem;
+  }
+
+  /* End Our Team */
+
+  /* Skills  */
+
+  #skills .skills-top p{
+    text-align: center;
+    width: 350px;
+    margin-top: 1rem;
+  }
+  #skills .skills-result .gradient {
+    width: 420px;
+  }
+
+  /* End Skills */
+
+  /* Price  */
+
+  #price .price-top p{
+    text-align: center;
+    width: 350px;
+  }
+  #price .price-left-item  p{
+    font-size: .8rem;
+  }
+  /* #price .price-left-item:nth-child(4) .price-info{
+    width: 412px;
+  } */
+
+  /* End Price */
+
+  /* Blog  */
+
+  #blog .blog-top p{
+    text-align: center;
+    width: 350px;
+  }
+  #blog .blog-cards .blog-card:first-child{
+    margin-bottom: 1.5rem;
+  }
+
+  /* End Blog */
+
+  /* Follow  */
+
+  #follow .follow-top p{
+    text-align: center;
+    width: 350px;
+  }
+  #follow .social-network a{
+    width: 80px;
+    height: 80px;
+  }
+
+  /* End Follow */
+
+  /* Contact  */
+
+  #contact .contact-top p{
+    text-align: center;
+    width: 350px;
+  }
+  #contact .contact-top .contact-local a{
+    font-size: .7rem;
+    margin-left: 35px;
+  }
+
+  /* End Contact */
+
+  /* Registratsiya */
+
+  #footer .container{
+    min-height: 170vh;
+  }
+
+  /* End Registratsiya  */
+}
+@media screen and (max-width: 319.98px) {
+}
